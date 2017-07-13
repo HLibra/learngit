@@ -4,3 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 测试远程仓库是否同步
+1
+2
+3
